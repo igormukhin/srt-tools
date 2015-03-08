@@ -1,5 +1,5 @@
 # srt-tools
-Some useful tools to work with SRT files content especially for preparing voice-over texts.
+Some useful tools to work with SRT files content, especially for preparing voice-over texts.
 
 To run it, browse to
 http://igormukhin.github.io/srt-tools/
@@ -18,6 +18,7 @@ http://igormukhin.github.io/srt-tools/
 ### Publishing updates
 
 If you want to publish just pushed master commits to public: 
+
 1. switch to `gh-pages` branch
 2. merge from `master` branch
 3. push to GitHub
